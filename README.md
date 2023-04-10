@@ -1,6 +1,6 @@
 # IPL-T20-Cricket-Challenge
 IPL T20 Cricket Challenge
-
+https://iitm-ipl.web.app/contest_details.html
 ### Problem Statement:
 
 Given certain input parameters regarding the innings of an IPL T20 cricket match, predict the total runs scored by the batting team at the end of 6 overs.
